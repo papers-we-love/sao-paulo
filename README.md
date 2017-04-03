@@ -16,6 +16,5 @@ TBD. Check other sources of communication:
 
 ### Contact
 
-Ícaro Medeiros
-
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+[Ícaro Medeiros](twitter.com/icaromedeiros)
+[Ivan Marin](https://www.linkedin.com/in/ispmarin/)
