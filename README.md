@@ -11,8 +11,8 @@ As a local chapter we follow the Papers We Love [Code of Conduct](https://github
 
 TBD. Check other sources of communication:
 
-Meetup: https://www.meetup.com/papers-we-love-sp/
-Slack channel: https://paperswelovesp.slack.com
+- Meetup: https://www.meetup.com/papers-we-love-sp/
+- Slack channel: https://paperswelovesp.slack.com
 
 ### Contact
 
