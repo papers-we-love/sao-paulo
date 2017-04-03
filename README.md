@@ -1,7 +1,7 @@
 # São Paulo
 
 Esse é o repositório do capítulo de So Paulo da franquia de eventos "Paper We Love".
-Como é obrigatório aos capítulos locais, seguimos um [código de conduta](codigo-de-conduta).
+Como é obrigatório aos capítulos locais, seguimos um [código de conduta](codigo-de-conduta.md).
 Esse código é bem próximo ao utilizado em alguns outros eventos como a [Pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md) e a [PythonBrasil](https://github.com/pythonbrasil/codigo-de-conduta).
 
 This is the repository for the Sao Paulo chapter of Papers We Love.
