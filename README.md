@@ -16,5 +16,5 @@ TBD. Check other sources of communication:
 
 ### Contact
 
-[Ícaro Medeiros](twitter.com/icaromedeiros)
-[Ivan Marin](https://www.linkedin.com/in/ispmarin/)
+- [Ícaro Medeiros](twitter.com/icaromedeiros)
+- [Ivan Marin](https://www.linkedin.com/in/ispmarin/)
