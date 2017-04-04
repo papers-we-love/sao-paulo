@@ -1,6 +1,6 @@
-# Code of Conduct
+# Código de Conduta
 
-All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
+Todos os participantes, palestrantes, exibidores, organizadores, ajudantes e voluntários devem seguir of Código de Conduta abaixo.
 
 Papers We Love events are for anyone interested in Computer Science/Computer Engineering, its history, and related fields to discuss academic research in a fun, engaging and respectful environment.
 
